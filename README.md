@@ -80,7 +80,6 @@ Se você deseja contribuir com o projeto, faça um fork do repositório, faça s
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
-```
 
 ### Notas Adicionais
 
